@@ -1,0 +1,12 @@
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\bin\Debug\net8.0\ClassLibraryPrOne.deps.json
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\bin\Debug\net8.0\ClassLibraryPrOne.dll
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\bin\Debug\net8.0\ClassLibraryPrOne.pdb
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.AssemblyInfoInputs.cache
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.AssemblyInfo.cs
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.csproj.CoreCompileInputs.cache
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.sourcelink.json
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.dll
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\refint\ClassLibraryPrOne.dll
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ClassLibraryPrOne.pdb
+C:\Users\burnf\source\repos\ClassLibraryPrOne\ClassLibraryPrOne\obj\Debug\net8.0\ref\ClassLibraryPrOne.dll
